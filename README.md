@@ -1,6 +1,6 @@
 # Codebase Chat 🚀
 
-Codebase Chat is a RAG (Retrieval-Augmented Generation) powered chatbot application designed to help developers explore, understand, and query Python repositories in plain English. 
+Codebase Chat is a RAG (Retrieval-Augmented Generation) powered chatbot application designed to help developers explore, understand, and query Python repositories in plain English . 
 
 By pasting a public GitHub repository URL, the system clones, chunks, indexes, and embeds the source code in real-time, allowing users to ask questions and receive answers cited with exact files, functions, and line numbers.
 
